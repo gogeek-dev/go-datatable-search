@@ -1,11 +1,5 @@
 # go-datatable-search
 
-
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/gogeek-dev/go-datatable-search)
-![GitHub last commit](https://img.shields.io/github/last-commit/gogeek-dev/go-datatable-search)
-![GitHub issues](https://img.shields.io/github/issues/gogeek-dev/go-datatable-search)
-![GitHub repo size](https://img.shields.io/github/repo-size/gogeek-dev/go-datatable-search?color=orange)
-
 The ability to search a table for data is the actual concept of DataTables. It allows the Users to easily access the data. This concept provides a way to control the global search of a table through the API. 
 
 The global search is carried out across all searchable columns in order to disable searching for certain columns. If data is found matching in any column, then the whole row is matched and shown as the result set. 
